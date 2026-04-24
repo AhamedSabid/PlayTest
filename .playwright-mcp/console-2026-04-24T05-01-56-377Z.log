@@ -1,0 +1,9 @@
+[  -17735ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demo.automationtesting.in/Register.html:0
+[  -17735ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demo.automationtesting.in/Register.html:0
+[  -16780ms] [ERROR] Access to XMLHttpRequest at 'https://restcountries.eu/rest/v1/all' from origin 'https://demo.automationtesting.in' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://demo.automationtesting.in/Register.html:0
+[  -16780ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://restcountries.eu/rest/v1/all:0
+[  -16106ms] [LOG] error occured @ https://demo.automationtesting.in/angcontroller.js:355
+[  -16106ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://api.mlab.com/api/1/databases/userdetails/collections/newtable?apiKey=YEX0M2QMPd7JWJw_ipMB3a5gDddt4B_X:0
+[  -14060ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://api.mlab.com/api/1/databases/userdetails/collections/newtable?apiKey=YEX0M2QMPd7JWJw_ipMB3a5gDddt4B_X:0
+[  -10416ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://demo.automationtesting.in/Register.html:0
+[   -8978ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://demo.automationtesting.in/Register.html:0
